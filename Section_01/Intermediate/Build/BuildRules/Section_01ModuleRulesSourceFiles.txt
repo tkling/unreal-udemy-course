@@ -1,0 +1,3 @@
+C:\Users\Tyler\dev\Unreal Projects\Section_01\Source\Section_01\Section_01.Build.cs
+C:\Users\Tyler\dev\Unreal Projects\Section_01\Source\Section_01.Target.cs
+C:\Users\Tyler\dev\Unreal Projects\Section_01\Source\Section_01Editor.Target.cs
