@@ -27,8 +27,6 @@ public:
 	EGuessStatus CheckGuessValidity(FString) const;
 	void Reset();
 	int32 AdvanceCurrentTry();
-	int32 CountBulls(FString);
-	int32 CountCows(FString);
 	FBullCowCount ProcessGuess(FString);
 
 private:
@@ -36,4 +34,6 @@ private:
 	int32 MyMaxTries;
 	FString MyWord;
 	bool IsIsogram(FString) const;
+	int32 CountBulls(FString);
+	int32 CountCows(FString);
 };
